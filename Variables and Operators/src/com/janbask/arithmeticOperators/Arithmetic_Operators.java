@@ -26,7 +26,7 @@ public class Arithmetic_Operators {
 		a--;//28
 		a=a-1;//27
 		System.out.println(a);//Decrement
-		b--;
+		b--;//5
 		
 		
 		
