@@ -9,11 +9,16 @@ public class String_Compare {
 		String s2="selenium";
 		String s3="Selenium";
 		
-		System.out.println(s1.compareTo(s2));
 		
-		System.out.println(s1.equals(s2));
 		
-		System.out.println(s1==s2);
+			
+		//System.out.println(s1.compareTo(s2));
+		
+		System.out.println(s1.equals(s3));//compare text value
+		
+		//System.out.println(s1==s2);
+		
+		System.out.println(s1==s3);//compare address of variable value
 		
 		System.out.println(s1.compareToIgnoreCase(s2));
 		

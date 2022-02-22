@@ -8,12 +8,14 @@ public class Array_Contains {
 		// TODO Auto-generated method stub
 
 		
-String[] stud= {"marks","steve","jenny","kevin"};
+String[] stud= {"marks","steve","jenny","kevin","Joe","Chris"};
 
-//System.out.println(stud[3]);
+System.out.println(stud.length);
+
+System.out.println(stud[3]);
 		
 	System.out.println(Arrays.asList(stud).contains("marks"));//true
-	//System.out.println(Arrays.asList(stud).contains("henry"));//false
+	System.out.println(Arrays.asList(stud).contains("henry"));//false
 	
 	
 	}
