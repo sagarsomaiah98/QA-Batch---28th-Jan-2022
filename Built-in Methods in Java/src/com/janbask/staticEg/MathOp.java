@@ -5,7 +5,7 @@ import com.janbask.param.Operations;
    public class MathOp {
 	    //static variables
 	   
-	     static int age=40;  
+	      int age=40;  
 	   static  String name="Kevin";
 	   
 	   //static methods
@@ -21,7 +21,9 @@ import com.janbask.param.Operations;
 	public static void main(String[] args) {
 	
 		add(10,20,50);
-		System.out.println(age);
+		MathOp m = new MathOp();
+		
+		System.out.println(m.age);
 	    System.out.println(name);
 		
 		
