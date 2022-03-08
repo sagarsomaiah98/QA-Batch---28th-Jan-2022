@@ -11,7 +11,7 @@ public class RunTest {
 		
 		MathOp.add(20,30,40);
 		
-		System.out.println(MathOp.age);
+	//	System.out.println(MathOp.age);
 		System.out.println(MathOp.name);
 
 	}
