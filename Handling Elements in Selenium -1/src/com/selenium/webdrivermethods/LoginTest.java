@@ -1,5 +1,8 @@
 package com.selenium.webdrivermethods;
 
+import java.time.Duration;
+import java.util.concurrent.TimeUnit;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -11,6 +14,7 @@ System.setProperty("webdriver.chrome.driver", "S:\\JANBASK\\FEB_WORKSPACE\\DRIVE
 		
 		WebDriver d= new ChromeDriver();
 		d.manage().window().maximize();
+		d.manage().timeouts().implicitlyWait(Duration.ofSeconds(3000));
 		d.get("https://www.saucedemo.com/");
 		d.findElement(By.xpath("//input[@id='user-name']")).sendKeys("standard_user");
 		d.findElement(By.id("password")).sendKeys("secret_sauce1");
