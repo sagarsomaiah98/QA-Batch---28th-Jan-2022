@@ -1,5 +1,6 @@
+package com.selenium.links;
 
-public class Get_All_Links  {
+public class FooterLinks {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
