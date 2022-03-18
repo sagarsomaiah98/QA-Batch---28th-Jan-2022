@@ -30,7 +30,7 @@ public class Double_Click {
 		
 		Thread.sleep(3000);
 
-		a.doubleClick(trialaction).perform();
+		a.doubleClick(trialaction).perform();//double click
 		
 	
 		

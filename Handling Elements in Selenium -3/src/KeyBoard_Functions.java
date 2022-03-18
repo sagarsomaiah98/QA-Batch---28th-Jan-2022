@@ -35,7 +35,7 @@ public class KeyBoard_Functions {
         Thread.sleep(3000);
         
         // Copy the Current Address
-        driver.findElement(By.id("currentAddress")).sendKeys(Keys.chord(Keys.CONTROL, "a"));
+        driver.findElement(By.id("currentAddress")).sendKeys(Keys.chord(Keys.CONTROL,"a"));
         Thread.sleep(3000);
        
        

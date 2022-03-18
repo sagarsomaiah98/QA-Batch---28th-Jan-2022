@@ -10,9 +10,8 @@ public class Right_click {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.chrome.driver", "S:\\JANBASK\\JAN_WORKSPACE\\DRIVERS\\chromedriver.exe");
-		
-		WebDriver driver= new ChromeDriver();
+		System.setProperty("webdriver.chrome.driver", "S:\\JANBASK\\FEB_WORKSPACE\\DRIVERS\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
 		
 		
 	
@@ -25,7 +24,9 @@ public class Right_click {
 		WebElement ele=driver.findElement(By.xpath("//button[@id='rightClickBtn']"));
 		
 		Actions action= new Actions(driver);
-		action.contextClick(ele).perform();
+		
+		
+		action.contextClick(ele).perform();// do a right click
 		Thread.sleep(3000);
 		
 		System.out.println("done");
