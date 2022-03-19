@@ -17,3 +17,85 @@
 2022-03-08 20:22:24,226 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2022-03-09 20:38:22,741 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2022-03-17 20:39:31,436 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-17 21:31:50,230 [Worker-28: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' S:\JANBASK\FEB_WORKSPACE\SampleMaven\pom.xml
+2022-03-17 21:31:55,225 [Worker-28: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Mvn:SampleMaven:0.0.1-SNAPSHOT @ S:\JANBASK\FEB_WORKSPACE\SampleMaven\pom.xml.
+2022-03-17 21:31:56,657 [Worker-28: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleMaven/src/main/java
+2022-03-17 21:31:56,661 [Worker-28: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleMaven/src/test/java
+2022-03-17 21:31:56,748 [Worker-28: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2022-03-17 21:31:57,432 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:31:57,433 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:31:57,436 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:31:57,437 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 21:37:06,530 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Mvn:SampleMaven:0.0.1-SNAPSHOT @ S:\JANBASK\FEB_WORKSPACE\SampleMaven\pom.xml.
+2022-03-17 21:37:14,268 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:37:14,268 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:37:14,271 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:37:14,271 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 21:37:16,161 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:37:16,162 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:37:16,164 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:37:16,164 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 21:38:14,339 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:38:14,340 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:38:14,342 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:38:14,343 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 21:38:20,066 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:38:20,067 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:38:20,069 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:38:20,070 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 21:38:33,668 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:38:33,669 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:38:33,671 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:38:33,672 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 21:39:47,431 [Worker-33: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:39:47,432 [Worker-33: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:39:47,435 [Worker-33: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:39:47,435 [Worker-33: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 21:41:14,873 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Mvn:SampleMaven:0.0.1-SNAPSHOT @ S:\JANBASK\FEB_WORKSPACE\SampleMaven\pom.xml.
+2022-03-17 21:41:16,830 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:41:16,830 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:41:16,833 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:41:16,833 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 21:41:18,801 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:41:18,802 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:41:18,803 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:41:18,804 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 21:41:44,768 [Worker-31: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:41:44,768 [Worker-31: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:41:44,770 [Worker-31: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:41:44,770 [Worker-31: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 21:42:34,333 [Worker-35: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:42:34,333 [Worker-35: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 21:42:34,335 [Worker-35: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 21:42:34,336 [Worker-35: Launching LoginTest (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 22:00:30,773 [Worker-40: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' S:\JANBASK\FEB_WORKSPACE\SauceMvn\pom.xml
+2022-03-17 22:00:30,888 [Worker-40: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Mvn:SauceMvn:0.0.1-SNAPSHOT @ S:\JANBASK\FEB_WORKSPACE\SauceMvn\pom.xml.
+2022-03-17 22:00:30,930 [Worker-40: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SauceMvn/src/main/java
+2022-03-17 22:00:30,935 [Worker-40: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SauceMvn/src/test/java
+2022-03-17 22:00:30,987 [Worker-40: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-03-17 22:00:31,325 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 22:00:31,326 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SauceMvn\src\main\resources
+2022-03-17 22:00:31,331 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 22:00:31,332 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SauceMvn\src\test\resources
+2022-03-17 22:00:51,787 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 22:00:51,788 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SauceMvn\src\main\resources
+2022-03-17 22:00:51,789 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 22:00:51,790 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SauceMvn\src\test\resources
+2022-03-17 22:00:57,718 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 22:00:57,718 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SauceMvn\src\main\resources
+2022-03-17 22:00:57,721 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 22:00:57,722 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SauceMvn\src\test\resources
+2022-03-17 22:01:59,219 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 22:01:59,220 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\main\resources
+2022-03-17 22:01:59,224 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 22:01:59,225 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SampleMaven\src\test\resources
+2022-03-17 22:01:59,322 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Mvn:SauceMvn:0.0.1-SNAPSHOT @ S:\JANBASK\FEB_WORKSPACE\SauceMvn\pom.xml.
+2022-03-17 22:01:59,371 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 22:01:59,371 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SauceMvn\src\main\resources
+2022-03-17 22:01:59,374 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-17 22:01:59,374 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SauceMvn\src\test\resources
+2022-03-18 20:33:06,387 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-18 21:14:07,392 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-18 21:14:07,394 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SauceMvn\src\main\resources
+2022-03-18 21:14:07,398 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-18 21:14:07,398 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\JANBASK\FEB_WORKSPACE\SauceMvn\src\test\resources

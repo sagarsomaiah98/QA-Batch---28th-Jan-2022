@@ -11,6 +11,8 @@ public class LoginTest {
 	public static void main(String[] args) {
         
 		WebDriverManager.chromedriver().setup();
+		WebDriverManager.firefoxdriver().setup();
+		WebDriverManager.edgedriver().setup();
 		
 		WebDriver d= new ChromeDriver();
 		d.manage().window().maximize();
