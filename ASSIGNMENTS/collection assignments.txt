@@ -1,0 +1,16 @@
+Try out Array list methods
+clear, contains,remove,add index, add
+Create two seperate arraylist and linked list for employee name-String
+StudentMarks-int
+StudentGrades-Char
+Salary-double
+
+
+Create a Set of Employee name with multiple duplicate name and check the size
+
+
+Create a Marks set and retrieve all the values
+
+create a program for try catch for null pointer, arrayout of bound, file not found exception
+
+ 
